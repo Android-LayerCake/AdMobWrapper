@@ -7,4 +7,7 @@ This application acts as a wrapper around the AdMob advertising library, allowin
 
 You will need to download and reference the AdMob library: https://developers.google.com/mobile-ads-sdk/
 
-For more information, please visit: https://layercake.cs.washington.edu/
+
+For more information about LayerCake and corresponding license, please see:
+* https://github.com/Android-LayerCake/layercake-project
+* https://layercake.cs.washington.edu/
